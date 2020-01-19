@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"animationId":48,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Recovers all HP and MP for all allies. It's pretty\nexpensive, but really good.","effects":[{"code":11,"dataId":0,"value1":1,"value2":0},{"code":12,"dataId":0,"value1":1,"value2":0}],"hitType":0,"iconIndex":274,"itypeId":1,"name":"Cheeseburger Basket","note":"","occasion":0,"price":50,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0}
+]

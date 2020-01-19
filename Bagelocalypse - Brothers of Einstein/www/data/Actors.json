@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":6,"characterName":"TatianaWalk","classId":1,"equips":[1,1],"faceIndex":7,"faceName":"TatianaFace","traits":[],"initialLevel":69,"maxLevel":73,"name":"Tatiana","nickname":"","note":"","profile":"Bagel maker."},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"TatianaWalk","classId":2,"equips":[2,0],"faceIndex":6,"faceName":"TatianaFace","traits":[],"initialLevel":69,"maxLevel":99,"name":"Big Joe","nickname":"","note":"","profile":"Scientist, researcher, and inventor."}
+]
